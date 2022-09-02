@@ -76,3 +76,7 @@ Adem Rosenkvist Nielsen Aouichaoui ([arnaou@kt.dtu.dk](arnaou@kt.dtu.dk))
 
 Fan Fan ([chn.tz.fanfan@outlook.com](chn.tz.fanfan@outlook.com))
 
+## Licence
+***
+Check the licence file
+
