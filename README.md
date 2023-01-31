@@ -10,7 +10,7 @@ integrate *a-priori* knowledge, i.e. group contribution theory, with graph neura
 Combining Group-Contribution Concept and Graph Neural Networks Toward Interpretable Molecular Property Models
 Adem R. N. Aouichaoui, Fan Fan, Seyed Soheil Mansouri, Jens Abildskov, and Gürkan Sin
 Journal of Chemical Information and Modeling Article ASAP
-DOI: 10.1021/acs.jcim.2c01091 [link][https://pubs.acs.org/doi/10.1021/acs.jcim.2c01091]
+DOI: 10.1021/acs.jcim.2c01091 [link](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01091)
 
 
 ## Prerequisites and dependencies
