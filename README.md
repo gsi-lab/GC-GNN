@@ -5,7 +5,13 @@
 ## Background
 ***
 This code is the basis of our work submitted to *Journal of Chemical Information and Modeling*, aiming to 
-integrate *a-priori* knowledge, i.e. group contribution theory, with graph neural networks and attention mechanism, and bring more insights in the prediction of thermodynamic properties.
+integrate *a-priori* knowledge, i.e. group contribution theory, with graph neural networks and attention mechanism, and bring more insights in the prediction of thermodynamic properties. This is an **alpha version** of the models used to generate the resuls published in:
+
+Combining Group-Contribution Concept and Graph Neural Networks Toward Interpretable Molecular Property Models
+Adem R. N. Aouichaoui, Fan Fan, Seyed Soheil Mansouri, Jens Abildskov, and Gürkan Sin
+Journal of Chemical Information and Modeling Article ASAP
+DOI: 10.1021/acs.jcim.2c01091 (link)[https://pubs.acs.org/doi/10.1021/acs.jcim.2c01091]
+
 
 ## Prerequisites and dependencies
 ***
