@@ -4,6 +4,7 @@
 ## NOTICE:
 
 A newer version of the model will be made available soon. Have a look at [profile](https://github.com/arnaou): 
+The newest version of the code is available [here](https://github.com/arnaou/gc-gnn)
 
 
 ## Background
@@ -92,4 +93,5 @@ Fan Fan ([chn.tz.fanfan@outlook.com](chn.tz.fanfan@outlook.com))
 ## Licence
 ***
 Check the licence file
+
 
