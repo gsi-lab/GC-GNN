@@ -1,7 +1,7 @@
 # Combining Group-Contribution concept and Graph Neural Networks Towards Interpretable Molecular Property Models
 ***
 
-## NOTICE:
+## [!CAUTION] NOTICE: [!CAUTION]
 
 The newest version of the code is available [here](https://github.com/arnaou/gc-gnn)
 
